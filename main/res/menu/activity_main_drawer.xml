@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_neck"
+            android:title="@string/menu_neck" />
+        <item
+            android:id="@+id/menu_back"
+            android:title="@string/menu_back" />
+        <item
+            android:id="@+id/menu_hands"
+            android:title="@string/menu_hands" />
+        <item
+            android:id="@+id/menu_press"
+            android:title="@string/menu_press" />
+        <item
+            android:id="@+id/menu_hips"
+            android:title="@string/menu_hips" />
+        <item
+            android:id="@+id/menu_legs"
+            android:title="@string/menu_legs" />
+        <item
+            android:id="@+id/menu_other"
+            android:title="@string/menu_other" />
+    </group>
+</menu>

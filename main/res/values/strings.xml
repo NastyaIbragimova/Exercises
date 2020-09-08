@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Упражнения</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_neck">Шея</string>
+    <string name="menu_back">Спина</string>
+    <string name="menu_shoulders">Плечи</string>
+    <string name="menu_hands">Руки</string>
+    <string name="menu_press">Пресс</string>
+    <string name="menu_hips">Бёдра</string>
+    <string name="menu_legs">Ноги</string>
+    <string name="menu_other">Разное</string>
+    <string name="title">Упражнения</string>
+    <string name="start">Start</string>
+    <string name="text_size">Размер текста</string>
+</resources>

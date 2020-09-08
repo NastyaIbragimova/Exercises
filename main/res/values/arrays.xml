@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="neck_exercises_array">
+        <item>Растяжка шеи</item>
+        <item>Повороты шеи</item>
+        <item>Наклоны в стороны</item>
+        <item>Наклоны вперёд</item>
+        <item>Наклоны назад</item>
+        <item>Круговые вращения</item>
+    </string-array>
+
+    <string-array name="neck_exercises_array2">
+        <item>5–8 раз</item>
+        <item>5–8 раз</item>
+        <item>5–8 раз</item>
+        <item>5–8 раз</item>
+        <item>5–8 раз</item>
+        <item>5–8 раз</item>
+    </string-array>
+
+    <string-array name="back_exercises_array">
+        <item>Низкий выпад</item>
+        <item>Наклон с руками за спиной</item>
+        <item>Опора на стену</item>
+        <item>Подъём рук и ног в положении стола</item>
+        <item>Захват ноги в положении стола</item>
+        <item>Скручивание в положении стола</item>
+        <item>Собака мордой вниз</item>
+        <item>Поза верблюда</item>
+        <item>Поза перевёрнутого стола</item>
+    </string-array>
+    <string-array name="back_exercises_array2">
+        <item>30–60 секунд на каждую сторону</item>
+        <item>2 подхода по 30–60 секунд</item>
+        <item>2 подхода по 30–60 секунд</item>
+        <item>2–3 подхода по 30–40 секунд на каждую сторону</item>
+        <item>2–3 подхода по 30 секунд на каждую сторону</item>
+        <item>2–3 подхода по 30 секунд на каждую сторону</item>
+        <item>1–2 минуты</item>
+        <item>2–3 подхода по 30–40 секунд</item>
+        <item>2–3 подхода по 20–40 секунд</item>
+
+    </string-array>
+
+    <string-array name="hands_exercises_array">
+        <item>Отжимания</item>
+        <item>Джампинг Джек</item>
+        <item>Сжимание мячика ладонями</item>
+        <item>Планка</item>
+    </string-array>
+
+    <string-array name="hands_exercises_array2">
+        <item>30–40 раз</item>
+        <item>1–2 минуты</item>
+        <item>1–2 минуты</item>
+        <item>1–2 минуты</item>
+    </string-array>
+
+    <string-array name="press_exercises_array">
+        <item>Складка к ногам</item>
+        <item>Ножницы</item>
+        <item>Скручивания лягушкой</item>
+        <item>Велосипед</item>
+        <item>Обратные скручивания</item>
+        <item>Подъём рук к ногам</item>
+        <item>Медленный подъём ног</item>
+    </string-array>
+
+    <string-array name="press_exercises_array2">
+        <item>20 раз</item>
+        <item>10–15 повторений на каждую сторону</item>
+        <item>20 раз</item>
+        <item>25 раз</item>
+        <item>2–3 раза</item>
+        <item>10 раз</item>
+        <item>10–15 раз</item>
+    </string-array>
+
+
+    <string-array name="hips_exercises_array">
+        <item>Приседания</item>
+        <item>Приседания с упором сзади</item>
+        <item>Выпады</item>
+        <item>Махи</item>
+        <item>Махи из положения лежа</item>
+        <item>Поднимание ягодиц из положения лежа</item>
+        <item>Ножницы с согнутыми коленями</item>
+    </string-array>
+
+    <string-array name="hips_exercises_array2">
+        <item>3 подхода по 30 раз</item>
+        <item>3 подхода по 20 раз</item>
+        <item>3 подхода по 15 раз</item>
+        <item>3 подхода по 30 раз</item>
+        <item>3 подхода по 30 раз</item>
+        <item>3 подхода по 20–25 раз</item>
+        <item>4 подхода по 25 раз</item>
+    </string-array>
+
+    <string-array name="legs_exercises_array">
+        <item>Воздушные приседания</item>
+        <item>Приседания с весом</item>
+        <item>Ягодичный мостик</item>
+        <item>Взрывные прыжки вверх</item>
+        <item>Зашагивания на тумбу</item>
+        <item>Стульчик у стены</item>
+    </string-array>
+
+    <string-array name="legs_exercises_array2">
+        <item>3 подхода по 30 раз</item>
+        <item>3 подхода по 30 раз</item>
+        <item>3 подхода по 30 раз</item>
+        <item>45–60 секунд</item>
+        <item>3 подхода по 30 раз</item>
+        <item>45–60 секунд</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="other_exercises_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="text_size_array">
+        <item>Крупный шрифт</item>
+        <item>Средний шрифт</item>
+        <item>Мелкий шрифт</item>
+    </string-array>
+</resources>
